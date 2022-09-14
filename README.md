@@ -6,7 +6,7 @@ Project aims to create team members within html , css and Java Script.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Calculator](https://mucahitkarakus.github.io/JavaScript--os-Calculator/)| Html Css  |![crewin](./images/team_members1.gif)
+[Calculator](https://mucahitkarakus.github.io/JavaScript-Ios-Calculator/)| Html Css  |![crewin](./images/team_members1.gif)
 
 
 ## Problem Statement
